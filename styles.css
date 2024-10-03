@@ -81,6 +81,7 @@ button {
 a {
     display: block;
     text-decoration: none;
+    color:white;
 }
 
 a:visited {
